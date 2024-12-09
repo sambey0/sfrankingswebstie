@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/sfrankingswebstie/static/css/main.38074a13.css",
-    "main.js": "/sfrankingswebstie/static/js/main.d2d8591a.js",
-    "index.html": "/sfrankingswebstie/index.html",
-    "main.38074a13.css.map": "/sfrankingswebstie/static/css/main.38074a13.css.map",
-    "main.d2d8591a.js.map": "/sfrankingswebstie/static/js/main.d2d8591a.js.map"
+    "main.css": "/static/css/main.38074a13.css",
+    "main.js": "/static/js/main.480bfeb2.js",
+    "index.html": "/index.html",
+    "main.38074a13.css.map": "/static/css/main.38074a13.css.map",
+    "main.480bfeb2.js.map": "/static/js/main.480bfeb2.js.map"
   },
   "entrypoints": [
     "static/css/main.38074a13.css",
-    "static/js/main.d2d8591a.js"
+    "static/js/main.480bfeb2.js"
   ]
 }
